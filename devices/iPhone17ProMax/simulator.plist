@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>simulator-support</key>
+	<true/>
+	<key>simulator-identifier</key>
+	<string>com.apple.CoreSimulator.SimDeviceType.iPhone-17-Pro-Max</string>
+	<key>supported-simulators</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Xcode Simulator</string>
+			<key>min-version</key>
+			<string>15.0</string>
+		</dict>
+	</array>
+	<key>rendering-engine</key>
+	<string>Metal</string>
+	<key>metal-support</key>
+	<true/>
+	<key>screen-recording</key>
+	<true/>
+</dict>
+</plist>

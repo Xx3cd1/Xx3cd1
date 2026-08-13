@@ -1,0 +1,42 @@
+{
+  "schema_version": "2.0",
+  "device": "iPhone17ProMax",
+  "validation_rules": [
+    {
+      "rule_id": "display_resolution",
+      "description": "Validate display resolution is 2868x1320",
+      "expected_value": "2868x1320",
+      "severity": "critical"
+    },
+    {
+      "rule_id": "chip_specification",
+      "description": "Validate A19 Pro chip is specified",
+      "expected_value": "A19 Pro",
+      "severity": "critical"
+    },
+    {
+      "rule_id": "model_identifier",
+      "description": "Validate model identifier matches iPhone18,2",
+      "expected_value": "iPhone18,2",
+      "severity": "critical"
+    },
+    {
+      "rule_id": "ios_version",
+      "description": "Validate iOS major version is 26",
+      "expected_value": 26,
+      "severity": "high"
+    },
+    {
+      "rule_id": "5g_support",
+      "description": "Validate 5G connectivity support",
+      "expected_value": true,
+      "severity": "high"
+    },
+    {
+      "rule_id": "face_id",
+      "description": "Validate Face ID support (Touch ID not supported)",
+      "expected_value": true,
+      "severity": "high"
+    }
+  ]
+}

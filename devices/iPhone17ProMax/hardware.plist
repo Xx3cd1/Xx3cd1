@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chip</key>
+	<string>A19 Pro</string>
+	<key>cpu</key>
+	<string>6-core CPU</string>
+	<key>gpu</key>
+	<string>6-core GPU with Neural Accelerators</string>
+	<key>neural-engine</key>
+	<string>16-core Neural Engine</string>
+	<key>memory-configurations</key>
+	<array>
+		<dict>
+			<key>capacity</key>
+			<string>8GB</string>
+			<key>type</key>
+			<string>LPDDR5X</string>
+		</dict>
+	</array>
+	<key>storage-configurations</key>
+	<array>
+		<string>256GB</string>
+		<string>512GB</string>
+		<string>1TB</string>
+	</array>
+</dict>
+</plist>

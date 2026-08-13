@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>platform</key>
+	<string>iOS</string>
+	<key>major-version</key>
+	<integer>26</integer>
+	<key>minimum-deployment-target</key>
+	<string>18.0</string>
+	<key>swift-version</key>
+	<string>6.0</string>
+	<key>features</key>
+	<array>
+		<string>multitasking</string>
+		<string>split-view</string>
+		<string>picture-in-picture</string>
+		<string>app-clips</string>
+		<string>widgets</string>
+		<string>sms</string>
+		<string>gamekit</string>
+	</array>
+</dict>
+</plist>

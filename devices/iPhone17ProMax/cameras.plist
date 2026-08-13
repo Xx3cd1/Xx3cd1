@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>rear-cameras</key>
+	<array>
+		<dict>
+			<key>position</key>
+			<string>main</string>
+			<key>megapixels</key>
+			<integer>48</integer>
+			<key>aperture</key>
+			<string>f/1.78</string>
+			<key>sensor-size</key>
+			<string>1/1.28-inch</string>
+			<key>optical-image-stabilization</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>position</key>
+			<string>telephoto</string>
+			<key>megapixels</key>
+			<integer>12</integer>
+			<key>aperture</key>
+			<string>f/2.8</string>
+			<key>optical-zoom</key>
+			<integer>5</integer>
+			<key>optical-image-stabilization</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>position</key>
+			<string>ultra-wide</string>
+			<key>megapixels</key>
+			<integer>12</integer>
+			<key>aperture</key>
+			<string>f/2.2</string>
+			<key>field-of-view</key>
+			<integer>120</integer>
+		</dict>
+	</array>
+	<key>front-camera</key>
+	<dict>
+		<key>megapixels</key>
+		<integer>12</integer>
+		<key>aperture</key>
+		<string>f/1.9</string>
+		<key>autofocus</key>
+		<true/>
+	</dict>
+	<key>video-capabilities</key>
+	<dict>
+		<key>4k-recording</key>
+		<true/>
+		<key>max-frame-rate</key>
+		<integer>60</integer>
+		<key>hdr-video</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

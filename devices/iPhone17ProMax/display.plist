@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>technology</key>
+	<string>Super Retina XDR OLED</string>
+	<key>diagonal-inches</key>
+	<real>6.9</real>
+	<key>resolution</key>
+	<string>2868x1320</string>
+	<key>ppi</key>
+	<integer>460</integer>
+	<key>proMotion</key>
+	<true/>
+	<key>proMotionFrequency</key>
+	<integer>120</integer>
+	<key>alwaysOn</key>
+	<true/>
+	<key>dynamicIsland</key>
+	<true/>
+	<key>wideColorP3</key>
+	<true/>
+	<key>displayGamut</key>
+	<string>P3</string>
+	<key>ScreenDimensionsCapability</key>
+	<dict>
+		<key>main-screen-scale</key>
+		<real>3.0</real>
+		<key>main-screen-width</key>
+		<integer>1320</integer>
+		<key>main-screen-height</key>
+		<integer>2868</integer>
+		<key>main-screen-orientation</key>
+		<real>0.0</real>
+		<key>main-screen-pitch</key>
+		<integer>460</integer>
+	</dict>
+	<key>DeviceCornerRadius</key>
+	<real>62.0</real>
+</dict>
+</plist>

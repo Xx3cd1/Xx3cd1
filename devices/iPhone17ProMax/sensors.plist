@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerometer</key>
+	<true/>
+	<key>gyroscope</key>
+	<true/>
+	<key>magnetometer</key>
+	<true/>
+	<key>compass</key>
+	<true/>
+	<key>barometer</key>
+	<true/>
+	<key>proximity-sensor</key>
+	<true/>
+	<key>ambient-light-sensor</key>
+	<true/>
+	<key>face-id</key>
+	<dict>
+		<key>supported</key>
+		<true/>
+		<key>technology</key>
+		<string>TrueDepth</string>
+	</dict>
+	<key>touch-id</key>
+	<false/>
+	<key>location-services</key>
+	<true/>
+	<key>GPSCapability</key>
+	<true/>
+	<key>gps-variants</key>
+	<array>
+		<string>GPS</string>
+		<string>GLONASS</string>
+		<string>Galileo</string>
+		<string>QZSS</string>
+		<string>BeiDou</string>
+	</array>
+</dict>
+</plist>

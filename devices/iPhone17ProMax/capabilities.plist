@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>device-name</key>
+	<string>iPhone 17 Pro Max</string>
+	<key>marketing-name</key>
+	<string>iPhone 17 Pro Max</string>
+	<key>modelIdentifier</key>
+	<string>iPhone18,2</string>
+	<key>ThinningProductType</key>
+	<string>iPhone18,2</string>
+	<key>idiom</key>
+	<string>phone</string>
+	<key>ipad</key>
+	<false/>
+	<key>IsLargeFormatPhone</key>
+	<true/>
+	<key>HasThinBezel</key>
+	<true/>
+	<key>hidpi</key>
+	<true/>
+	<key>arm64</key>
+	<true/>
+	<key>metal</key>
+	<true/>
+	<key>ASTC</key>
+	<true/>
+	<key>graphicsFeatureSetClass</key>
+	<string>APPLE9</string>
+</dict>
+</plist>

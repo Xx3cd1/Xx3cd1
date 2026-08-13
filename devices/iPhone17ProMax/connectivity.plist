@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>wifi</key>
+	<true/>
+	<key>wifi-standard</key>
+	<string>Wi-Fi 6E</string>
+	<key>contains-cellular-radio</key>
+	<true/>
+	<key>cellular-data</key>
+	<true/>
+	<key>cellular-technology</key>
+	<array>
+		<string>5G</string>
+		<string>LTE</string>
+	</array>
+	<key>telephony</key>
+	<true/>
+	<key>bluetooth</key>
+	<true/>
+	<key>bluetooth-version</key>
+	<string>5.3</string>
+	<key>bluetooth-le</key>
+	<true/>
+	<key>nfc</key>
+	<true/>
+	<key>peer-peer</key>
+	<true/>
+	<key>DisplayPort</key>
+	<true/>
+	<key>USB-type</key>
+	<string>USB-C</string>
+</dict>
+</plist>
